@@ -3,7 +3,7 @@
     <div id="nav">
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
-      <p>sdsd</p>
+      <p>test</p>
     </div>
     <keep-alive>
       <router-view/>
